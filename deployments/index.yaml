@@ -17,7 +17,7 @@ entries:
     name: cpappsec-ingress-nginx
     type: application
     urls:
-    - https://github.com/CheckPointSW/Infinity-Next/raw/main/deployments/cp-k8s-appsec-nginx-ingress-4.0.19.tgz 
+    - https://github.com/CheckPointSW/Infinity-Next/blob/main/deployments/cp-k8s-appsec-nginx-ingress-4.0.19.tar.gz?raw=true
     version: 4.0.19
   - apiVersion: v2
     appVersion: 1.0.0
