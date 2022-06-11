@@ -3,6 +3,24 @@ entries:
   cpappsec:
   - apiVersion: v2
     appVersion: 1.0.0
+    created: "2022-05-30T11:46:00.09402600Z"
+    description: A Helm chart for the CloudGuard AppSec Ingress Controller for Web Application and API protection
+    digest: 64d8c73dca984af206adf9d6d7e46aa550362b1d7a01f3a0a91b20cc67868660
+    home: https://github.com/CheckPointSW/Infinity-Next/tree/main/deployments
+    keywords:
+    - checkpoint
+    - waap
+    - cloudguard
+    - appsec
+    - nginx
+    - ingress
+    name: cpappsec-ingress-nginx
+    type: application
+    urls:
+    - https://github.com/CheckPointSW/Infinity-Next/raw/main/deployments/cp-k8s-appsec-nginx-ingress-4.0.19.tgz 
+    version: 4.0.19
+  - apiVersion: v2
+    appVersion: 1.0.0
     created: "2021-10-06T15:03:07.09402600Z"
     description: A Helm chart for the CloudGuard AppSec Ingress Controller for Web Application and API protection
     digest: 8d7fcf1b19a0b85eb68e7d06889bd16aa3d1704922abea744ba628026c736f59
